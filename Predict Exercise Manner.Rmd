@@ -260,6 +260,6 @@ Finally, we apply the Support Vector Machine model with Polynomial Kernel on the
 predict(fit_svmpoly_pca,testing)
 ```
 
-
+And we achieved **95% accuracy** (19 of 20 cases correct).
 
 
